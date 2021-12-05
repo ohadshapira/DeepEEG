@@ -1,7 +1,7 @@
 absl-py==0.7.0
 astor==0.7.1
 cycler==0.10.0
-gast==0.2.2
+gast==0.3.2
 grpcio==1.18.0
 h5py==2.9.0
 Keras==2.2.4
@@ -11,8 +11,8 @@ kiwisolver==1.0.1
 Markdown==3.0.1
 matplotlib==3.0.2
 mne==0.17.0
-numpy==1.16.1
-pandas==0.24.1
+numpy==1.17
+pandas==1.0
 protobuf==3.6.1
 pyparsing==2.3.1
 python-dateutil==2.8.0
